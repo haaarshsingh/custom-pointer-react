@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69592270/145664681-6a37d7b7-f882-4e38-ac3f-da8e61e778b4.png" />
+  <img src="https://github.com/harshhhdev/custom-pointer-react/blob/master/public/Banner.jpg" />
   <a href="https://harshhhdev.github.io/custom-pointer-react/">
     <h2 align="center">custom-pointer-react</h2>
   </a>
