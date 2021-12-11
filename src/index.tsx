@@ -78,7 +78,7 @@ const Dot = styled.div`
   left: 50%;
   width: 10px;
   height: 10px;
-  background-color: white;
+  background-color: #000000;
   border-radius: 100%;
   transform: translate(-50%, -50%);
   z-index: 999;
