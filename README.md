@@ -61,19 +61,19 @@ To hide the computer's cursor, add the following CSS:
 
 # 📚 Parameters
 
-*Note: All parameters are optional*
+_Note: All parameters are optional_
 
-Parameter     | Description                                          | Default Value
-------------- | ---------------------------------------------------- | -------------
-color         | The background colour of the cursor                  | #000000
-showRing      | Controls whether to show the ring around the cursor  | true
-ringSize      | Controls the size of the ring around the cursor      | 50px
-cursorSize    | Controls the size of the cursor                      | 10px
-ringBorder    | Controls the width of the ring's border              | 2px
+| Parameter  | Description                                         | Default Value |
+| ---------- | --------------------------------------------------- | ------------- |
+| color      | The background colour of the cursor                 | #000000       |
+| showRing   | Controls whether to show the ring around the cursor | true          |
+| ringSize   | Controls the size of the ring around the cursor     | 50px          |
+| cursorSize | Controls the size of the cursor                     | 10px          |
+| ringBorder | Controls the width of the ring's border             | 2px           |
 
 # 💻 Development
 
-Run the project locally 
+Run the project locally
 
 ```
 git clone https://github.com/harshhhdev/custom-pointer-react.git
@@ -88,14 +88,13 @@ cd custom-pointer-react
 yarn
 ```
 
-## Starting server 
+## Starting server
 
 ```zsh
 yarn start
 ```
 
 This should compile an instance of your project to the `dist` folder
-
 
 # 🔧 Tools Used
 
@@ -106,7 +105,6 @@ This should compile an instance of your project to the `dist` folder
 - [styled-components](https://styled-components.com/)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/)
-
 
 # 🤞 Contributing
 

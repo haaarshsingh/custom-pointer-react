@@ -64,7 +64,7 @@ const Ring = styled.div`
   left: 0;
   width: 50px;
   height: 50px;
-  border: 2px solid white;
+  border: 2px solid #000000;
   border-radius: 100%;
   transform: translate(-50%, -50%);
   transition: 0.2s ease-out;
@@ -123,7 +123,7 @@ export const Cursor: React.FC<CursorProps> = ({
           style={{
             left: `${x}px`,
             top: `${y}px`,
-            background: color,
+            borderColor: color,
             borderWidth: ringBorder,
             height: ringSize,
             width: ringSize
@@ -135,6 +135,7 @@ export const Cursor: React.FC<CursorProps> = ({
         style={{
           left: `${x}px`,
           top: `${y}px`,
+          background: color,
           height: cursorSize,
           width: cursorSize
         }}
