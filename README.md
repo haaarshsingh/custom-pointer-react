@@ -6,7 +6,7 @@
 </p> 
 <p align="center">:rocket: Custom cursors for React</p>
 <p align="center">
-  <a href="https://www.figma.com/file/imEzzbwD0dUNAJg2cdF4MK/Issure">NPM</a>
+  <a href="https://www.npmjs.com/package/custom-pointer-react">NPM</a>
     ·
   <a href="https://issure.vercel.app/">Demo</a>
  </p>
